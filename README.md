@@ -7,9 +7,9 @@
 Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
 
 <p>
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://syeda-mahnoor-islam-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
+  <a href="mailto:syeda2029islam@gmail.com">Email</a>
 </p>
 
 </div>
@@ -33,6 +33,7 @@ Currently, I'm expanding my skills toward Full Stack Development while building 
 - JavaScript (ES6+)
 - HTML5
 - CSS3
+- Dart
 
 ### Frontend
 
@@ -71,9 +72,14 @@ Healthcare web application featuring medicine browsing, user-friendly interface 
 
 ---
 
-### 🎁 Gift Card & Localization System
+### 💱 Localization System
 
-A multilingual application supporting Arabic & English with dynamic themes, RTL support and localization features.
+A multilingual application supporting 7 Different Languages Including Arabic ,English & 5 Others with dynamic themes, RTL support and localization features.
+
+---
+### 📇 Course Allocation System
+
+A System Specially Design to manage timetable in Education Department , allocate courses to teacher base on their Expertise, Prefrences & Qualification.
 
 ---
 
@@ -125,13 +131,13 @@ A modern developer portfolio showcasing projects, skills and experience with smo
 ## 🤝 Let's Connect
 
 Portfolio:
-YOUR_PORTFOLIO_LINK
+https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 LinkedIn:
-YOUR_LINKEDIN
+https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Email:
-YOUR_EMAIL
+syeda2029islam@gmail.com
 
 ---
 
