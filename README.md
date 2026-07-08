@@ -1,45 +1,32 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Syeda Mahnoor Islam
 
-### Frontend Developer • React.js Enthusiast • Lifelong Learner
+### Frontend Developer | React.js Enthusiast | UI Engineer
 
-Building modern, responsive, and user-focused web experiences with clean code and thoughtful design.
+Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
 
-<p align="center">
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p>
+  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
+  <a href="YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Building+Clean+%26+Modern+Web+Applications;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 💫 About Me
 
-I'm a Frontend Developer from Pakistan who enjoys turning ideas into fast, responsive, and user-friendly web applications.
+I'm a Frontend Developer from Pakistan passionate about transforming ideas into beautiful, responsive, and interactive web experiences.
 
-I believe good software is a combination of clean architecture, great user experience, and continuous improvement.
+I enjoy solving real-world problems, creating reusable UI components, improving application performance, and continuously learning new technologies.
 
-Currently, I'm sharpening my JavaScript skills while expanding into Full Stack Development.
+Currently, I'm expanding my skills toward Full Stack Development while building production-ready React applications.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 
@@ -53,7 +40,6 @@ Currently, I'm sharpening my JavaScript skills while expanding into Full Stack D
 - Vite
 - Tailwind CSS
 - Responsive Design
-- REST API Integration
 
 ### Tools
 
@@ -67,91 +53,92 @@ Currently, I'm sharpening my JavaScript skills while expanding into Full Stack D
 - Node.js
 - Express.js
 - MongoDB
-- System Design Basics
+- REST APIs
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-### 🌐 Developer Portfolio
+### 🍽️ Restaurant Website
 
-A modern portfolio showcasing my projects, skills, and development journey.
-
----
-
-### 🍽 Luxury Restaurant Template
-
-Elegant restaurant website with responsive layouts, reusable components, and modern UI.
+A premium restaurant website with modern UI, responsive layouts, elegant animations and reusable components.
 
 ---
 
 ### 💊 Healify ePharmacy
 
-Healthcare platform focused on intuitive design and seamless user experience.
+Healthcare web application featuring medicine browsing, user-friendly interface and responsive experience.
 
 ---
 
 ### 🎁 Gift Card & Localization System
 
-RTL support, multilingual interface, dynamic theming, and scalable React architecture.
+A multilingual application supporting Arabic & English with dynamic themes, RTL support and localization features.
 
 ---
 
-# 📊 GitHub Analytics
+### 💼 Personal Portfolio
+
+A modern developer portfolio showcasing projects, skills and experience with smooth animations.
+
+---
+
+## 🎯 What I'm Working On
+
+- Improving React Architecture
+- Advanced JavaScript
+- Backend Development
+- Building Production-Level Projects
+- Open Source Contributions
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedaMahnoorIslam&show_icons=true&theme=transparent"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaMahnoorIslam&layout=compact&theme=transparent"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SyedaMahnoorIslam&theme=transparent"/>
 
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 💡 Developer Philosophy
 
-- Build production-ready React applications
-- Learn Backend Development
-- Contribute to Open Source
-- Master System Design fundamentals
-- Land an international Frontend Developer role
+> Great software is not only about writing code.
+> It's about solving problems, creating meaningful experiences, and continuously improving every day.
 
 ---
 
-# 💭 Philosophy
+## 🤝 Let's Connect
 
-> "Every project is an opportunity to write cleaner code than the last one."
+Portfolio:
+YOUR_PORTFOLIO_LINK
 
----
+LinkedIn:
+YOUR_LINKEDIN
 
-# 📬 Let's Connect
-
-🌐 Portfolio: YOUR_PORTFOLIO
-
-💼 LinkedIn: YOUR_LINKEDIN
-
-📧 Email: YOUR_EMAIL
+Email:
+YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by!
+### Thanks for visiting my profile.
 
-If you find something interesting, don't forget to ⭐ a repository.
-
-Happy Coding 🚀
+⭐ If you like my work, feel free to explore my repositories.
 
 </div>
-```
