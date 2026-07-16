@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Syeda Mahnoor Islam
@@ -140,4 +139,3 @@ Personal portfolio showcasing projects, technical skills and development journey
 ⭐ Thanks for visiting my GitHub profile.
 
 </div>
-```
