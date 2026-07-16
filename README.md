@@ -1,150 +1,143 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm Syeda Mahnoor Islam
 
-### Frontend Developer | React.js Enthusiast | UI Engineer
+### Frontend Developer • React.js • JavaScript
 
-Building responsive, scalable and user-focused web applications with modern JavaScript technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Crafting+Beautiful+User+Experiences;Always+Learning.+Always+Building."/>
 
-<p>
-  <a href="https://syeda-mahnoor-islam-portfolio.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
-  <a href="mailto:syeda2029islam@gmail.com">Email</a>
-</p>
+<br>
+
+<a href="https://syeda-mahnoor-islam-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:syeda2029islam@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-I'm a Frontend Developer from Pakistan passionate about transforming ideas into beautiful, responsive, and interactive web experiences.
+Frontend Developer passionate about building fast, responsive and intuitive web applications.
 
-I enjoy solving real-world problems, creating reusable UI components, improving application performance, and continuously learning new technologies.
+I enjoy transforming ideas into polished digital products while focusing on clean architecture, reusable components and exceptional user experience.
 
-Currently, I'm expanding my skills toward Full Stack Development while building production-ready React applications.
+Currently expanding my expertise in **Full Stack Development** with **Node.js**, **Express.js** and **MongoDB**.
 
 ---
 
-## 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Dart
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+---
 
 ### Frontend
 
-- React.js
-- Vite
-- Tailwind CSS
-- Responsive Design
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+---
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Figma
+Git • GitHub • VS Code • Figma
 
-### Currently Learning
+---
 
-- Node.js
+# 🚀 Featured Projects
+
+### 🌍 LocaleForge
+
+A production-ready localization platform supporting **7 languages**, RTL/LTR layouts, dynamic themes and locale-aware formatting.
+
+---
+
+### 💊 Healify
+
+Full-stack ePharmacy platform featuring **Patient**, **Admin** and **Rider** dashboards with authentication, payment workflow and REST API integration.
+
+---
+
+### 🎓 Smart Course Allocation System
+
+An automated academic management system that intelligently assigns courses to instructors based on predefined allocation rules, qualifications and workload.
+
+---
+
+### 🍽️ Restaurant Landing Page
+
+Modern responsive restaurant website built with React.js featuring reusable components and elegant UI.
+
+---
+
+### 💼 Developer Portfolio
+
+Personal portfolio showcasing projects, technical skills and development journey.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedaMahnoorIslam&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaMahnoorIslam&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SyedaMahnoorIslam&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Backend Development with Node.js
 - Express.js
 - MongoDB
-- REST APIs
+- REST API Development
+- Software Architecture
 
 ---
 
-## 🌟 Featured Projects
+# 💭 Favorite Quote
 
-### 🍽️ Restaurant Website
-
-A premium restaurant website with modern UI, responsive layouts, elegant animations and reusable components.
-
----
-
-### 💊 Healify ePharmacy
-
-Healthcare web application featuring medicine browsing, user-friendly interface and responsive experience.
-
----
-
-### 💱 Localization System
-
-A multilingual application supporting 7 Different Languages Including Arabic ,English & 5 Others with dynamic themes, RTL support and localization features.
-
----
-### 📇 Course Allocation System
-
-A System Specially Design to manage timetable in Education Department , allocate courses to teacher base on their Expertise, Prefrences & Qualification.
-
----
-
-### 💼 Personal Portfolio
-
-A modern developer portfolio showcasing projects, skills and experience with smooth animations.
-
----
-
-## 🎯 What I'm Working On
-
-- Improving React Architecture
-- Advanced JavaScript
-- Backend Development
-- Building Production-Level Projects
-- Open Source Contributions
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SyedaMahnoorIslam&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedaMahnoorIslam&layout=compact&theme=transparent"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SyedaMahnoorIslam&theme=transparent"/>
-
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-> Great software is not only about writing code.
-> It's about solving problems, creating meaningful experiences, and continuously improving every day.
-
----
-
-## 🤝 Let's Connect
-
-Portfolio:
-https://syeda-mahnoor-islam-portfolio.vercel.app
-
-LinkedIn:
-https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-Email:
-syeda2029islam@gmail.com
+> **"The best code isn't just functional — it's readable, maintainable, and built with the user in mind."**
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile.
+### Let's build something meaningful together.
 
-⭐ If you like my work, feel free to explore my repositories.
+⭐ Thanks for visiting my GitHub profile.
 
 </div>
+```
