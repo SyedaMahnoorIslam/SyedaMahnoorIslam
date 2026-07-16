@@ -24,7 +24,7 @@
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
 Frontend Developer passionate about building fast, responsive and intuitive web applications.
 
@@ -32,8 +32,25 @@ I enjoy transforming ideas into polished digital products while focusing on clea
 
 Currently expanding my expertise in **Full Stack Development** with **Node.js**, **Express.js** and **MongoDB**.
 
----
+```ts
+const mahnoor = {
+  role: "Frontend Developer & QA Engineer",
+  location: "Pakistan 🇵🇰",
+  education: "BS Computer Science",
+  experience: "1+ Years",
+  projects: "10+",
+  currentFocus: [
+    "React.js",
+    "Node.js",
+    "REST APIs",
+    "Software Quality"
+  ]
+}
+```
 
+I enjoy transforming ideas into clean, responsive and user-friendly web applications while ensuring software quality through practical QA experience.
+
+---
 # ⚡ Tech Stack
 
 ### Languages
