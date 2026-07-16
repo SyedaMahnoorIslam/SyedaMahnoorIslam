@@ -131,7 +131,7 @@ A modern developer portfolio showcasing projects, skills and experience with smo
 ## 🤝 Let's Connect
 
 Portfolio:
-https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://syeda-mahnoor-islam-portfolio.vercel.app
 
 LinkedIn:
 https://www.linkedin.com/in/syeda-mahnoor-islam-4ba443394?utm_source=share_via&utm_content=profile&utm_medium=member_android
