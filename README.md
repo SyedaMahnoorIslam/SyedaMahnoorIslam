@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Syeda Mahnoor Islam
+#  Hi, I'm Syeda Mahnoor Islam
 
 ### Frontend Developer • React.js • JavaScript
 
